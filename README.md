@@ -29,8 +29,9 @@ Security Features
 ---
 
 Usage
-
+```
 bash
 git clone git@github.com:keelanbaxter/homelab-media-pipeline.git
 cd homelab-media-pipeline
 docker-compose up -d
+```
